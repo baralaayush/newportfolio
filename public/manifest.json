@@ -1,0 +1,22 @@
+{
+  "short_name": "Aayush Baral",
+  "name": "Aayush Baral Portfolio",
+  "icons": [
+    {
+      "src": "https://aayushbaralsite.wordpress.com/wp-content/uploads/2026/01/img_5162.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://aayushbaralsite.wordpress.com/wp-content/uploads/2026/01/img_5162.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Aayush Baral - Web Designer, Developer, Blogger & CSIT Student Portfolio"
+}
