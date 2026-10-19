@@ -44,7 +44,7 @@ export default function About() {
                 </div>
                 <div className="flex items-center gap-1">
                   <a 
-                    href="https://drive.google.com/file/d/1kxbkCPgNePEVH8Ak4425ru5jL9SuYRSd/view"
+                    href="https://drive.google.com/file/d/15l2lENBn11EqccY27agHImR9PwUqR4qn/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2.5 text-gray-400 hover:text-indigo-600 hover:bg-indigo-50 rounded-xl transition-all duration-200" 
@@ -53,7 +53,7 @@ export default function About() {
                     <Eye className="w-5 h-5" />
                   </a>
                   <a 
-                    href="https://drive.google.com/uc?export=download&id=1kxbkCPgNePEVH8Ak4425ru5jL9SuYRSd"
+                    href="https://drive.google.com/file/d/15l2lENBn11EqccY27agHImR9PwUqR4qn/view?usp=sharing"
                     className="p-2.5 text-white bg-indigo-600 hover:bg-indigo-700 rounded-xl shadow-sm hover:shadow transition-all duration-200" 
                     title="Download Resume"
                   >

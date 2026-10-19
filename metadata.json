@@ -1,5 +1,6 @@
 {
   "name": "Aayush Baral Portfolio",
   "description": "Personal portfolio website",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
